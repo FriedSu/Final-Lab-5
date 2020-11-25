@@ -1,0 +1,1 @@
+codeNumLength = courseList.length.codeNum
